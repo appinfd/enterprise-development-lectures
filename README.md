@@ -8,3 +8,8 @@
 |Лекция 1. Часть 3. ООП|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%203.%20%D0%9E%D0%9E%D0%9F.pptx)|[Видео](https://disk.yandex.ru/i/cVHzvGkoeYyLkA)|
 |Лекция 1. Часть 4. Git & Github|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%204.%20Git%20%26%20Github.pptx)|[Видео](https://disk.yandex.ru/i/47ZxVxYkWIE5Mw)|
 |Лекция 1. Часть 5. Unit tests|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%205.%20Unit%20tests.pptx)|[Видео](https://disk.yandex.ru/i/ZGMdhAQJocUCcQ)|
+
+
+|Практика|Презентация|Код|Видео|
+|--|--|--|--|
+|Лабораторная 1.Классы|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Practice%201/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%200.%20%D0%9E%D0%B1%D1%89%D0%B8%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.pptx)|[Код](https://github.com/appinfd/enterprise-development-samples/pull/1)|[Видео 1](https://disk.yandex.ru/i/xB_xiOwYFmY6mQ) [Видео 2](https://disk.yandex.ru/i/5yuQApxp-wYhSw) [Видео 3](https://disk.yandex.ru/i/H_iIelL-pGsfbA)|
