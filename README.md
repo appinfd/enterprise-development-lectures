@@ -8,7 +8,8 @@
 |Лекция 1. Часть 3. ООП|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%203.%20%D0%9E%D0%9E%D0%9F.pptx)|[Видео](https://disk.yandex.ru/i/cVHzvGkoeYyLkA)|
 |Лекция 1. Часть 4. Git & Github|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%204.%20Git%20%26%20Github.pptx)|[Видео](https://disk.yandex.ru/i/47ZxVxYkWIE5Mw)|
 |Лекция 1. Часть 5. Unit tests|[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%201/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%205.%20Unit%20tests.pptx)|[Видео](https://disk.yandex.ru/i/ZGMdhAQJocUCcQ)|
-
+|Лекция 2. Часть 1. DI & IoC |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%202/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.%20DI%26IoC.pptx)|
+|Лекция 2. Часть 2. API |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%202/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.%20API.pptx)|
 
 |Практика|Презентация|Код|Видео|
 |--|--|--|--|
