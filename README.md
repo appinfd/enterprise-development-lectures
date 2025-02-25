@@ -11,7 +11,7 @@
 |Лекция 2. Часть 1. DI & IoC |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%202/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.%20DI%26IoC.pptx)|
 |Лекция 2. Часть 2. API |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%202/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.%20API.pptx)|
 |Лекция 3. Часть 1. async & await |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%203/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.%20async%26await.pptx)|
-|Лекция 3. Часть 1. EF Core |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%203/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.%20EF%20Core.pptx)|
+|Лекция 3. Часть 2. EF Core |[Презентация](https://github.com/appinfd/enterprise-development-lectures/blob/main/Lectures/Lecture%203/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.%20EF%20Core.pptx)|
 
 |Практика|Презентация|Код|Видео|
 |--|--|--|--|
